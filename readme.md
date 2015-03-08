@@ -1,6 +1,8 @@
 HPCE 2015 / CW5
 ===========
 
+[CW6](https://github.com/HPCE/hpce_2014_cw6)
+
 Deadline update
 ---------------
 
